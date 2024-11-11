@@ -3,4 +3,4 @@ The Simon Game is a classic memory game where players repeat a sequence of color
 # Technologies Used 
 *	HTML: For the game structure and layout.
  * CSS: For styling the buttons and page.
-	*	JavaScript: For game logic, handling events, and controlling animations.
+ * JavaScript: For game logic, handling events, and controlling animations.
